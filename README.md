@@ -34,7 +34,8 @@ Clock Speed	16 MHz
  
 ![image](https://user-images.githubusercontent.com/36288975/163530394-115baee4-7ed1-49fe-9cce-d7b625e11e85.png)
 
-FIGURE-02:
+## FIGURE-01:
+
 ![image](https://user-images.githubusercontent.com/36288975/163530431-4d390e98-0942-42d8-95b8-f57d348e6ad8.png)
 
 
@@ -56,7 +57,7 @@ FIGURE-02:
 # CIRCUIT DIAGRAM :
 
 
-## FIGURE -03
+## FIGURE -02
 
 
 ![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
