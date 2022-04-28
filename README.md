@@ -103,5 +103,5 @@ void loop()
 ![ARDIO](https://user-images.githubusercontent.com/94175324/165751730-081d8d0c-6334-405a-af05-6ecd42d0bf27.png)
 
 # RESULT :
-Thus the digital sensors with push button is compleated using the tinkercad software.
 
+Thus the interfaceing digital input sensor with ardunio push button is completed using thinkercad software sucessfully.
