@@ -40,7 +40,7 @@ FIGURE-01
 
 
 FIGURE-02
-# PROCEDURE 
+# PROCEDURE :
  Open tinker cad account 
 1.	Select Arduino uno , bread board , digital input and digital output 
 2.	Connect the circuit as given in the figure 
@@ -55,7 +55,7 @@ FIGURE-02
 
 
 
-CIRCUIT DIAGRAM 
+# CIRCUIT DIAGRAM 
 
 
 
@@ -103,5 +103,5 @@ void loop()
 ![ARDIO](https://user-images.githubusercontent.com/94175324/165751730-081d8d0c-6334-405a-af05-6ecd42d0bf27.png)
 
 # RESULT :
-Thus the 
+Thus the digital sensors with push button is compleated using the tinkercad software.
 
