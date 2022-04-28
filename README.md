@@ -58,14 +58,13 @@ FIGURE-02
 # CIRCUIT DIAGRAM :
 
 
-
+## FIGURE -03
 
 
 ![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
 
 
 
-FIGURE -03
 
 
 
